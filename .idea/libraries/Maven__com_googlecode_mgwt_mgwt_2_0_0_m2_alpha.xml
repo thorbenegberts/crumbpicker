@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.googlecode.mgwt:mgwt:2.0.0-m2-alpha">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/mgwt/mgwt/2.0.0-m2-alpha/mgwt-2.0.0-m2-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/mgwt/mgwt/2.0.0-m2-alpha/mgwt-2.0.0-m2-alpha-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/mgwt/mgwt/2.0.0-m2-alpha/mgwt-2.0.0-m2-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
